@@ -1,35 +1,33 @@
-# Kaveri Matrimony
+#Safety Standards Against Child Sexual Abuse and Exploitation (CSAE)
 
-Welcome to the **Kaveri Matrimony** official project page.  
-This platform is built to connect members of the **Kaveri community** and help them find their perfect life partner.
+At Kaveri Matrimony, we are committed to providing a safe, respectful, and trusted environment for all our users. We strictly prohibit any content, behavior, or activity that involves or promotes child sexual abuse and exploitation (CSAE).
 
----
+#🔒 Our Commitments
 
-## 🌟 Features
-- Simple and secure profile creation  
-- Partner search within the Kaveri community  
-- User-friendly design for smooth navigation  
-- Safe and trusted matchmaking  
+Zero Tolerance Policy: Any form of child sexual abuse material (CSAM) or exploitative content is strictly forbidden.
 
----
+Age Restriction: Our services are only for adults (18 years and older). Accounts found to be created by minors will be removed immediately.
 
-## 📲 Download
-The Kaveri Matrimony app is available on the **Google Play Store**.  
-👉 [Get it on Google Play](#) *(link will be updated once live)*  
+Monitoring & Reporting: We actively monitor and review reports of abuse. Any CSAE-related activity is reported to relevant authorities in compliance with applicable laws.
 
----
+User Awareness: We encourage users to report suspicious profiles or behavior using the in-app reporting tools or by contacting our support team.
 
-## 🔒 Privacy & Safety
-We respect your privacy and are committed to data safety.  
-Read our [Privacy Policy](https://kaverykannadadevangakulamatrimony.com/privacy.php).  
+#📢 How to Report
 
----
+If you come across any content or behavior that violates these standards:
 
-## 📬 Contact Us
-Have questions or need support?  
-📧 Email: **support@kaverimatrimony.com**  
-🌐 Website: [kaverykannadadevangakulamatrimony.com](https://kaverykannadadevangakulamatrimony.com)  
+Report directly via the app, or
 
----
+#Email us at: support@kaverimatrimony.com
 
-© 2025 Kaveri Matrimony. All rights reserved.
+We will take immediate action, including account suspension, removal of content, and notifying law enforcement where required.
+
+#⚖️ Legal Compliance
+
+Kaveri Matrimony complies with local and international laws regarding online safety and child protection, including the UN CRC (Convention on the Rights of the Child) and applicable IT regulations in India.
+
+#👉 Once you publish this on your website (example:
+https://kaverykannadadevangakulamatrimony.com/safety-standards.php
+or on GitHub Pages:
+https://ansab369.github.io/kaery-public/safety-standards),
+you can provide that link in the Play Console under Safety Standards URL.
